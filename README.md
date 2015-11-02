@@ -1,5 +1,5 @@
 # Awesome Beaver Builder Extensions
-Awesome Extensions for the [Beaver Builder](https://www.wpbeaverbuilder.com/) plugin for WordPress
+Extensions for the awesome [Beaver Builder](https://www.wpbeaverbuilder.com/) plugin for WordPress
 
 ## Table Of Contents
 * [Modules](#modules)
