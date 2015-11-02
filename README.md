@@ -4,7 +4,6 @@ Awesome Extensions for the [Beaver Builder](https://www.wpbeaverbuilder.com/) pl
 ## Modules
 Modules to add to your theme or plugin
 
-[Fotoplugins](http://fotoplugins.com/) has several useful module plugins. Some free, some paid. I'll list them individually later.
 * [SW PushMenu Module](http://fotoplugins.com/downloads/responsive-off-canvas-menu/)
 * [SW Social Share Module](http://fotoplugins.com/downloads/sw-social-share/)
 * [SW Responsive Tables Module](http://fotoplugins.com/downloads/sw-responsive-tables/)
@@ -19,6 +18,11 @@ Modules to add to your theme or plugin
 Have you designed a layout you'd like to share? Shoot me a link!
 
 ## Beaver Builder-friendly Themes
+Know of a free or premium theme with great [Beaver Builder](wpbeaverbuilder.com) support? Send me the link!
+
+## Add-On Plugins
+* [Fotoplugins Modules Plugin](http://fotoplugins.com/downloads/fotoplugins-beaver-builder-modules/)
+* [SW Beaver Builder Resizer](http://fotoplugins.com/downloads/sw-beaver-builder-resizer/)
 
 ## Common Snippets
 
@@ -39,7 +43,3 @@ if (is_builder_layout()) {
 }
 ?>
 ```
-
-## Add-On Plugins
-* [Fotoplugins Modules Plugin](http://fotoplugins.com/downloads/fotoplugins-beaver-builder-modules/)
-* [SW Beaver Builder Resizer](http://fotoplugins.com/downloads/sw-beaver-builder-resizer/)
