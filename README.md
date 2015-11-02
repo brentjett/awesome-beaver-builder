@@ -5,6 +5,7 @@ Awesome Extensions for the [Beaver Builder](https://www.wpbeaverbuilder.com/) pl
 * [Modules](#modules)
 * [Layouts](#layouts)
 * [BB-friendly Themes](#beaver-builder-friendly-themes)
+* [Custom Field Types](#custom-field-types)
 * [Add-on Plugins](#add-on-plugins)
 * [Common Snippets](#common-snippets)
 
