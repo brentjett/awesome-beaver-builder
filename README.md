@@ -13,12 +13,20 @@ Have you designed a layout you'd like to share? Shoot me a link!
 
 ## Common Snippets
 
-Function to check if a page is using a builder layout:
+How to check if a page is using a builder layout:
 ```php
 <?php
+// Include this function in functions.php of your theme.
 function is_builder_layout() {
   if (class_exists( 'FLBuilderModel' ) && FLBuilderModel::is_builder_enabled()) return true;
   return false;
+}
+
+// Inside page.php I use is_builder_layout() to determine what kind of layout to display.
+if (is_builder_layout()) {
+  // big wide open edge-to-edge space for builder to use. Gives user the most options.
+} else {
+  // default page layout, two column w/ sidebar maybe? 
 }
 ?>
 ```
