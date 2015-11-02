@@ -25,6 +25,11 @@ Modules to add to your theme or plugin
 ## Custom Field Types
 These are additional settings field types to use in your custom modules.
 * [PDF Field Type](https://github.com/ZestSMS/BB-PDF-field)
+* [Date Picker](https://github.com/ZestSMS/BB-fields)
+* [Location](https://github.com/ZestSMS/BB-fields)
+* [Time Picker](https://github.com/ZestSMS/BB-fields)
+* [Time Range](https://github.com/ZestSMS/BB-fields)
+* [Post Select](https://github.com/ZestSMS/BB-fields)
 
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
@@ -35,6 +40,7 @@ Know of a free or premium theme with great [Beaver Builder](wpbeaverbuilder.com)
 ## Add-On Plugins
 * [Fotoplugins Modules Plugin](http://fotoplugins.com/downloads/fotoplugins-beaver-builder-modules/)
 * [SW Beaver Builder Resizer](http://fotoplugins.com/downloads/sw-beaver-builder-resizer/)
+* [ZestSMS Field Types](https://github.com/ZestSMS/BB-fields)
 
 ## Common Snippets
 
