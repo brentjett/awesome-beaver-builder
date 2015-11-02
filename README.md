@@ -1,6 +1,13 @@
 # Awesome Beaver Builder Extensions
 Awesome Extensions for the [Beaver Builder](https://www.wpbeaverbuilder.com/) plugin for WordPress
 
+## Table Of Contents
+* [Modules](#modules)
+* [Layouts](#layouts)
+* [BB-friendly Themes](#beaver-builder-friendly-themes)
+* [Add-on Plugins](#add-on-plugins)
+* [Common Snippets](#common-snippets)
+
 ## Modules
 Modules to add to your theme or plugin
 
@@ -43,3 +50,5 @@ if (is_builder_layout()) {
 }
 ?>
 ```
+
+Hope this was helpful! If you have suggestions for modules/layouts/themes/plugins/snippets feel free to send them to me as ticket or message me on the [Beaver Builder Slack team](http://beaverbuilders.slack.com) @brentjett!
