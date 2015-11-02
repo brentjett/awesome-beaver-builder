@@ -3,9 +3,9 @@ Awesome Extensions for the [Beaver Builder](https://www.wpbeaverbuilder.com/) pl
 
 ## Table Of Contents
 * [Modules](#modules)
+* [Custom Field Types](#custom-field-types)
 * [Layouts](#layouts)
 * [BB-friendly Themes](#beaver-builder-friendly-themes)
-* [Custom Field Types](#custom-field-types)
 * [Add-on Plugins](#add-on-plugins)
 * [Common Snippets](#common-snippets)
 
@@ -22,14 +22,15 @@ Modules to add to your theme or plugin
 * [SW Tooltip Module](http://fotoplugins.com/downloads/swtooltip-module/)
 * [SW Gallery Module](http://fotoplugins.com/downloads/sw-gallery-module/)
 
+## Custom Field Types
+These are additional settings field types to use in your custom modules.
+* [PDF Field Type](https://github.com/ZestSMS/BB-PDF-field)
+
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
 
 ## Beaver Builder-friendly Themes
 Know of a free or premium theme with great [Beaver Builder](wpbeaverbuilder.com) support? Send me the link!
-
-## Custom Field Types
-* [PDF Field Type](https://github.com/ZestSMS/BB-PDF-field)
 
 ## Add-On Plugins
 * [Fotoplugins Modules Plugin](http://fotoplugins.com/downloads/fotoplugins-beaver-builder-modules/)
