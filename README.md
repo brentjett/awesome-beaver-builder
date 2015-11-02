@@ -3,6 +3,7 @@ Awesome Extensions for the [Beaver Builder](https://www.wpbeaverbuilder.com/) pl
 
 ## Modules
 Modules to add to your theme or plugin
+
 [Fotoplugins](http://fotoplugins.com/) has several useful module plugins. Some free, some paid. I'll list them individually later.
 
 ## Layouts
