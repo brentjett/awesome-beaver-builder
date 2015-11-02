@@ -27,6 +27,9 @@ Have you designed a layout you'd like to share? Shoot me a link!
 ## Beaver Builder-friendly Themes
 Know of a free or premium theme with great [Beaver Builder](wpbeaverbuilder.com) support? Send me the link!
 
+## Custom Field Types
+* [PDF Field Type](https://github.com/ZestSMS/BB-PDF-field)
+
 ## Add-On Plugins
 * [Fotoplugins Modules Plugin](http://fotoplugins.com/downloads/fotoplugins-beaver-builder-modules/)
 * [SW Beaver Builder Resizer](http://fotoplugins.com/downloads/sw-beaver-builder-resizer/)
