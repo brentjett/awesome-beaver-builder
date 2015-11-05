@@ -40,7 +40,8 @@ Know of a free or premium theme with great [Beaver Builder](wpbeaverbuilder.com)
 ## Add-On Plugins
 * [Fotoplugins Modules Plugin](http://fotoplugins.com/downloads/fotoplugins-beaver-builder-modules/)
 * [SW Beaver Builder Resizer](http://fotoplugins.com/downloads/sw-beaver-builder-resizer/)
-* [ZestSMS Field Types](https://github.com/ZestSMS/BB-fields)
+* [ZestSMS Field Types Bundle](https://github.com/ZestSMS/BB-fields)
+* [BB Templates as Headers](https://github.com/jatacid/bb-template-as-header/)
 
 ## Common Snippets
 
