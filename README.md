@@ -4,9 +4,9 @@ Extensions for the awesome [Beaver Builder](https://www.wpbeaverbuilder.com/) pl
 ## Table Of Contents
 * [Modules](#modules)
 * [Custom Field Types](#custom-field-types)
+* [Add-on Plugins](#add-on-plugins)
 * [Layouts](#layouts)
 * [BB-friendly Themes](#beaver-builder-friendly-themes)
-* [Add-on Plugins](#add-on-plugins)
 * [Common Snippets](#common-snippets)
 
 ## Modules
@@ -31,17 +31,18 @@ These are additional settings field types to use in your custom modules.
 * [Time Range](https://github.com/ZestSMS/BB-fields)
 * [Post Select](https://github.com/ZestSMS/BB-fields)
 
-## Layouts
-Have you designed a layout you'd like to share? Shoot me a link!
-
-## Beaver Builder-friendly Themes
-Know of a free or premium theme with great [Beaver Builder](wpbeaverbuilder.com) support? Send me the link!
-
 ## Add-On Plugins
 * [Fotoplugins Modules Plugin](http://fotoplugins.com/downloads/fotoplugins-beaver-builder-modules/)
 * [SW Beaver Builder Resizer](http://fotoplugins.com/downloads/sw-beaver-builder-resizer/)
 * [ZestSMS Field Types Bundle](https://github.com/ZestSMS/BB-fields)
 * [BB Templates as Headers](https://github.com/jatacid/bb-template-as-header/)
+* [Beaver Builder TinyMCE Advanced Icon Fix](https://github.com/r3df/r3df-beaver-builder-tinymce-advanced-icon-fix)
+
+## Layouts
+Have you designed a layout you'd like to share? Shoot me a link!
+
+## Beaver Builder-friendly Themes
+Know of a free or premium theme with great [Beaver Builder](wpbeaverbuilder.com) support? Send me the link!
 
 ## Common Snippets
 
