@@ -57,11 +57,11 @@ function is_builder_layout() {
   return false;
 }
 
-// Inside page.php I use is_builder_layout() to determine what kind of layout to display.
+// Inside page.php, single.php, or singular.php use is_builder_layout() to determine what kind of layout to display.
 if (is_builder_layout()) {
-  // big wide open edge-to-edge space for builder to use. Gives user the most options.
+  // big wide open edge-to-edge space for builder to use.
 } else {
-  // default page layout, two column w/ sidebar maybe? 
+  // default page layout, two column w/ sidebar maybe? Go nuts.
 }
 ?>
 ```
