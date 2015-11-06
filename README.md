@@ -38,6 +38,8 @@ These are additional settings field types to use in your custom modules.
 * [BB Templates as Headers](https://github.com/jatacid/bb-template-as-header/)
 * [Beaver Builder TinyMCE Advanced Icon Fix](https://github.com/r3df/r3df-beaver-builder-tinymce-advanced-icon-fix)
 
+Also see the Beaver Builder Team's [Recommended Plugins List](https://www.wpbeaverbuilder.com/knowledge-base/recommended-plugins/) for common helpful plugins that work well with Beaver Builder.
+
 ## Layouts
 Have you designed a layout you'd like to share? Shoot me a link!
 
