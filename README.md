@@ -44,7 +44,7 @@ Also see the Beaver Builder Team's [Recommended Plugins List](https://www.wpbeav
 Have you designed a layout you'd like to share? Shoot me a link!
 
 ## Beaver Builder-friendly Themes
-Know of a free or premium theme with great [Beaver Builder](wpbeaverbuilder.com) support? Send me the link!
+Know of a free or premium theme with great [Beaver Builder](http://www.wpbeaverbuilder.com) support? Send me the link!
 
 ## Common Snippets
 
