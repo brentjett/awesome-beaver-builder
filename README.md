@@ -12,6 +12,7 @@ Extensions for the awesome [Beaver Builder](https://www.wpbeaverbuilder.com/) pl
 ## Modules
 Modules to add to your theme or plugin
 
+* [ZestSMS Map](https://github.com/ZestSMS/BB-Override-Modules)
 * [SW PushMenu Module](http://fotoplugins.com/downloads/responsive-off-canvas-menu/)
 * [SW Social Share Module](http://fotoplugins.com/downloads/sw-social-share/)
 * [SW Responsive Tables Module](http://fotoplugins.com/downloads/sw-responsive-tables/)
@@ -32,7 +33,7 @@ These are additional settings field types to use in your custom modules.
 * [Post Select](https://github.com/ZestSMS/BB-fields)
 * [Select2 Drop-Down](https://github.com/ZestSMS/BB-fields/tree/master/fields/select2)
 
-## Add-On Plugins
+## Add-On Plugins & Libraries
 * [Fotoplugins Modules Plugin](http://fotoplugins.com/downloads/fotoplugins-beaver-builder-modules/)
 * [SW Beaver Builder Resizer](http://fotoplugins.com/downloads/sw-beaver-builder-resizer/)
 * [ZestSMS Field Types Bundle](https://github.com/ZestSMS/BB-fields)
