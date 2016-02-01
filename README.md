@@ -30,6 +30,7 @@ These are additional settings field types to use in your custom modules.
 * [Time Picker](https://github.com/ZestSMS/BB-fields)
 * [Time Range](https://github.com/ZestSMS/BB-fields)
 * [Post Select](https://github.com/ZestSMS/BB-fields)
+* [Select2 Drop-Down](https://github.com/ZestSMS/BB-fields/tree/master/fields/select2)
 
 ## Add-On Plugins
 * [Fotoplugins Modules Plugin](http://fotoplugins.com/downloads/fotoplugins-beaver-builder-modules/)
