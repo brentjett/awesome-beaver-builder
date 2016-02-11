@@ -68,6 +68,21 @@ if (is_builder_layout()) {
 ?>
 ```
 
+How to default new pages to use Beaver Builder instead of the WordPress Editor.
+```php
+function make_beaver_builder_default_editor( $post_ID, $post, $update ) {
+
+  // Enable BB Editor by default?
+  $enabled = true;
+
+  // On the first insert (not an update), set BB enabled to true.
+  if (!$update) {
+    update_post_meta( $post_ID, '_fl_builder_enabled', $enabled );
+  }
+}
+add_action('wp_insert_post', 'make_beaver_builder_default_editor', 10, 3 );
+```
+
 There is also a nice collection of [CSS Snippets for the BB Plugin](https://www.wpbeaverbuilder.com/kb/css-snippets-plugin/) and [CSS Snippets for the BB Theme](https://www.wpbeaverbuilder.com/kb/css-snippets-theme/) on the [knowledge base](https://www.wpbeaverbuilder.com/knowledge-base/)
 
 Hope this was helpful! If you have suggestions for modules/layouts/themes/plugins/snippets feel free to send them to me as ticket or message me on the [Beaver Builder Slack team](http://beaverbuilders.slack.com) @brentjett!
