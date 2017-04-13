@@ -1,3 +1,10 @@
+# Not The Droids You're Looking For
+This page is no longer being maintained. Check out these instead:
+* [Knowledge Base - Developer Reference](http://kb.wpbeaverbuilder.com/category/108-developer-and-reference)
+* [Awesome Beaver Builder / Lukecav](https://github.com/lukecav/awesome-beaver-builder)
+
+---
+
 # Awesome Beaver Builder Extensions
 Extensions for the awesome [Beaver Builder](https://www.wpbeaverbuilder.com/) plugin for WordPress
 
